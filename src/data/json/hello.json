@@ -1,0 +1,31 @@
+[
+  
+  {
+    "language": "Bengali",
+    "hello": "হ্যালো"
+  },
+  {
+    "language": "Dutch",
+    "hello": "Hallo"
+  },
+  {
+    "language": "English",
+    "hello": "Hello"
+  },
+  {
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  {
+    "language": "Hindi",
+    "hello": "नमस्ते"
+  },
+  {
+    "language": "Nepali",
+    "hello": "नमस्ते"
+  },
+  {
+    "language": "Punjabi",
+    "hello": "ਹੈਲੋ"
+  }
+]
