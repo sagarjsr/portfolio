@@ -1,47 +1,26 @@
 ### Some of the projects I've worked on so far
 
-- [turali.js.org](https://turali.js.org/)
+- [DevConnector](#)
 
-  - The web app you are currently looking at.
-  - `React`, `TypeScript`
+  - TThis is a MERN stack application from the "MERN Stack Front To Back". It is a small social network app that includes authentication, profiles and forum posts.
+  - Key Features :
+    * Secure Register and Login Process using JWT.
+    * Allowing users to Post feed.
+    * Allowing users to Like, Unlike and Comment on posts.
+    * Allowing multiple user to See posts to Like, Unlike and Comment on posts.
+  - Technical Stack : React , Node, MongoDB, JWT, Express.
 
-- [GetKernel](https://getkernel.now.sh/) \[_Half-baked_\]
+- [Task Tracker](#)
 
-  - The kernel store for Ubuntu derivatives.
-  - `NextJS`
+  - This is a Web Application (SPA) that is used for Creating Task, Updating Task, Setting Reminder. Which will help the user to complete the Task on Time.
+  - `Technical Stack: React, Node, MongoDB, Firebase App service.`
 
-- [deepintr.js.org](https://deepintr.js.org/)
+- [Tene Agricultural | Web Application](https://www.tene-ag.com/)
 
-  - Landing page for an online community.
-  - `GatsbyJS`, `React`, `TypeScript`
+  - Revamp existing Web Application made in PHP to Angular. Explored component-based design and added form validation.
+  - `Technical Stack: Angular, Node, MongoDB, Express, Material UI.`
 
-- [Girizgah](https://turali.js.org/girizgah/)
+- [TechInsta](#)
 
-  - Greeter (LightDM Webkit) theme for Pardus Linux.
-  - `React`
-
-- [Piyango.online](https://piyango.online/) \[_Abandoned_\]
-
-  - [Frontend](https://piyango.online/) | [Backend](https://dev.piyango.online/)
-  - Similar to _Bilen Adam_, which is listed below.
-  - `React`, `TypeScript`, `Serverless Functions`
-
-- [Astroloci](https://play.google.com/store/apps/details?id=com.astroloci.app)
-
-  - A horoscope application for Android.
-  - `Java`, `Express.js`
-
-- [Bilen Adam](https://play.google.com/store/apps/details?id=com.caglarturali.bilenadam)
-
-  - Lottery machine for Turkey's national lottery games.
-  - `C#`, `Unity 3D`
-
-- [2●48](https://play.google.com/store/apps/details?id=com.caglarturali.the2o48)
-
-  - A clone of the popular puzzle game 2048, with unlimited levels.
-  - `C#`, `Unity 3D`
-
-- [WatcherCatBot](https://github.com/caglarturali/WatcherCatBot/)
-
-  - A Telegram bot that returns popularity info of the given Linux distribution.
-  - `Node.js`, `Express.js`
+  - Yet to lauche
+  - `Technical Stack: Angular, Node, MongoDB, Express, Material UI.`

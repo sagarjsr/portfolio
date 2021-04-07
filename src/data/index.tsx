@@ -25,14 +25,14 @@ export const pages: PageLink[] = [
       />
     ),
   },
-  {
-    name: 'Apprenticeship in SWE',
-    url: '/swe',
-    icon: 'graduation-cap',
-    isInternal: true,
-    badge: `${calculateDiplomaProgress(sweData, 0)}%`,
-    comp: () => <Diploma diplomaData={sweData} staticData={staticData} />,
-  },
+  // {
+  //   name: 'Apprenticeship in SWE',
+  //   url: '/swe',
+  //   icon: 'graduation-cap',
+  //   isInternal: true,
+  //   badge: `${calculateDiplomaProgress(sweData, 0)}%`,
+  //   comp: () => <Diploma diplomaData={sweData} staticData={staticData} />,
+  // },
 ];
 
 export const tabs: TabLink[] = [
@@ -57,11 +57,11 @@ export const tabs: TabLink[] = [
     color: green,
     mdFileName: 'projects',
   },
-  {
-    name: 'certificates.sass',
-    url: '/certificates',
-    icon: ['fab', 'sass'],
-    color: pink,
-    mdFileName: 'certificates',
-  },
+  // {
+  //   name: 'certificates.sass',
+  //   url: '/certificates',
+  //   icon: ['fab', 'sass'],
+  //   color: pink,
+  //   mdFileName: 'certificates',
+  // },
 ];
